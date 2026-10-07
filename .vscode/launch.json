@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "MyTorch Release",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/Release/MyTorch.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "environment": [
+                {
+                    "name": "PATH",
+                    "value": "C:\\torch\\libtorch\\lib;${env:PATH}"
+                }
+            ],
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        }
+    ]
+}
