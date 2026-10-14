@@ -21,7 +21,8 @@ find_package(OpenCV REQUIRED COMPONENTS
 add_executable(OpenCVProject main.cpp
         Camera.h
         Preprocessor.h
-        Application.h)
+        Application.h
+        FaceDetector.h)
 
 target_include_directories(OpenCVProject PRIVATE
         ${OpenCV_INCLUDE_DIRS}

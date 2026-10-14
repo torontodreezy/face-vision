@@ -26,7 +26,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f629bb59-0ed3-4f80-bb14-ad020ea5d0c7" name="Changes" comment="start">
+    <list default="true" id="f629bb59-0ed3-4f80-bb14-ad020ea5d0c7" name="Changes" comment="upupup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application.h" beforeDir="false" afterPath="$PROJECT_DIR$/Application.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
@@ -105,7 +107,7 @@
   }
 }</component>
   <component name="RunManager" selected="CMake Application.OpenCVProject">
-    <configuration name="OpenCVProject" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCVProject" TARGET_NAME="OpenCVProject" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCVProject" RUN_TARGET_NAME="OpenCVProject">
+    <configuration name="OpenCVProject" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCVProject" TARGET_NAME="OpenCVProject" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCVProject" RUN_TARGET_NAME="OpenCVProject">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -170,6 +172,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="upupup" />
+    <option name="LAST_COMMIT_MESSAGE" value="upupup" />
   </component>
 </project>
