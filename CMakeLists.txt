@@ -18,7 +18,10 @@ find_package(OpenCV REQUIRED COMPONENTS
         dnn
 )
 
-add_executable(OpenCVProject main.cpp)
+add_executable(OpenCVProject main.cpp
+        Camera.h
+        Preprocessor.h
+        Application.h)
 
 target_include_directories(OpenCVProject PRIVATE
         ${OpenCV_INCLUDE_DIRS}

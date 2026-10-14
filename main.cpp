@@ -1,11 +1,6 @@
-#include <opencv2/opencv.hpp>
-#include <iostream>
+#include "Application.h"
 
-int main() {
-
-    cv::Mat g = cv::imread("/home/bladerunner/Pictures/topg.webp");
-    cv::imshow("g", g);
-    cv::waitKey(0);
-
-
+int main()
+{
+    return Application{}.run();
 }
